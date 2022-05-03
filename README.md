@@ -1,8 +1,8 @@
 ### STOCK TRADING
 
 <br />
-In this project I have worked on implementing stock trading services using design patterns as below
-
+In this project I have worked on implementing stock trading services using various design patterns.
+Features include
 <ol>
   <li>
   Buying Stock
