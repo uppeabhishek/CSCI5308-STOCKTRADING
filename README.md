@@ -14,6 +14,6 @@ Features include
   User Portfolio
   </li>
   <li>
-  User Portfolio
+  Trending Stocks
   </li>
 </ol>
